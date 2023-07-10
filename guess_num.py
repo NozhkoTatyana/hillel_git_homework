@@ -2,7 +2,7 @@ from random import randint
 
 
 num_bot = randint(1, 10)
-print(num_bot)
+#print(num_bot)
 
 
 answer_error = 'Наступного разу по щастить'
